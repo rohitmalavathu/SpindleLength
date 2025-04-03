@@ -3,7 +3,7 @@
 ---
 
 ## **Overview**
-This project provides tools for analyzing cellular images to identify patterns, calculate principal axes, and measure distances between structures. It processes multi-frame TIFF images to detect cell structures and measure their dimensions in micrometers.
+This project provides tools for analyzing cellular images to identify patterns, calculate principal axes, and measure distances between structures. It processes multi-frame TIFF images to detect cell structures and measure their dimensions in micrometers. The primary focus is on quantifying spindle length in S. pombe for the Hauf Lab at Virginia Tech, enabling precise measurements for biological analysis.
 
 ---
 

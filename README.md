@@ -80,7 +80,7 @@ python main.py
   - Analysis GIFs showing detected structures in each frame
   - A CSV file with length measurements for each detected structure
 - Example:
-  ![Description](01_CPY_analysis.gif)
+<img src="01_CPY_analysis.gif" width="400px">
 
 ---
 

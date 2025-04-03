@@ -1,14 +1,14 @@
-# **Cell Image Analysis Project**
+# **Quantifying Spindle Length in S. pombe**
 
 ---
 
 ## **Overview**
-This project provides tools for analyzing cellular images to identify patterns, calculate principal axes, and measure distances between structures. It processes multi-frame TIFF images to detect cell structures and measure their dimensions in micrometers. The primary focus is on quantifying spindle length in S. pombe for the Hauf Lab at Virginia Tech, enabling precise measurements for biological analysis.
+This project provides a tool for the Hauf Lab at Virginia Tech to quantify spindle length in S. pombe by identifying patterns, calculating principal axes, and measuring distances between structures. It processes multi-frame TIFF images to detect cell structures and measure their dimensions in micrometers.
 
 ---
 
 ## **Data Sources**
-The code processes TIFF image stacks, extracting intensity profiles and measuring distances between detected structures. The analysis is performed on cellular images, with automated detection of patterns and measurement of dimensions.
+The code processes TIFF image stacks, extracting intensity profiles and measuring distances between detected structures. The analysis is performed on images of S. pombe, with automated detection of patterns and measurement of dimensions. The images were provided by Dr. Silke Hauf.
 
 ---
 

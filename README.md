@@ -46,7 +46,7 @@ Ensure the following Python libraries are installed:
 ### **Clone this repository:**
 ```sh
 git clone <repository_url>
-cd cell-image-analysis
+cd SpindleLength
 ```
 
 ### **Create a virtual environment and activate it:**
